@@ -8,7 +8,11 @@ const Hero = () => {
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/tianhuih")}
+          onClick={() =>
+            window.open(
+              "https://github.com/tianhuih/react-practice-AI-summarizer"
+            )
+          }
           className="black_btn"
         >
           GitHub
