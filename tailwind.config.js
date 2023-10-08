@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        satoship: ["Satosh", "sans-serif"],
+        satoshi: ["Satoshi", "sans-serif"],
         inter: ["Inter", "sans-serif"],
       },
     },
