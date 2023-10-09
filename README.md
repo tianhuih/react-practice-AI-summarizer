@@ -11,10 +11,7 @@ A simple frontend application built with React for practice purposes. This proje
 
 ## Live Demo
 
-
-
-https://github.com/tianhuih/react-practice-AI-summarizer/assets/64876412/cff1ab80-9b3a-4a4b-80dd-99e37bf994bb
-
+https://github.com/tianhuih/react-practice-AI-summarizer/assets/64876412/7b7f77e9-60c4-4f35-9d6e-f9eeccc1a28b
 
 
 ## Technologies Used
